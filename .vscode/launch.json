@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BinaireBase10",
+            "request": "launch",
+            "mainClass": "fr.afpa.BinaireBase10",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "LocalisationSousChaine",
+            "request": "launch",
+            "mainClass": "fr.afpa.LocalisationSousChaine",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CamelCase",
+            "request": "launch",
+            "mainClass": "fr.afpa.CamelCase",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "ChaineInverseCarac",
+            "request": "launch",
+            "mainClass": "fr.afpa.ChaineInverseCarac",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "MinusculeMajuscule",
+            "request": "launch",
+            "mainClass": "fr.afpa.MinusculeMajuscule",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "DecompteMajuscules",
+            "request": "launch",
+            "mainClass": "fr.afpa.DecompteMajuscules",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "DecompteVoyelle",
+            "request": "launch",
+            "mainClass": "fr.afpa.DecompteVoyelle",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbonneYoutube",
+            "request": "launch",
+            "mainClass": "fr.afpa.AbonneYoutube",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "AffichagePyramide",
+            "request": "launch",
+            "mainClass": "fr.afpa.AffichagePyramide",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CalculDeLaMoyenne",
+            "request": "launch",
+            "mainClass": "fr.afpa.CalculDeLaMoyenne",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CheckLegalAge",
+            "request": "launch",
+            "mainClass": "fr.afpa.CheckLegalAge",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "DiagonaleTablo2d",
+            "request": "launch",
+            "mainClass": "fr.afpa.DiagonaleTablo2d",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "EchangeDeValeur",
+            "request": "launch",
+            "mainClass": "fr.afpa.EchangeDeValeur",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Factorielle",
+            "request": "launch",
+            "mainClass": "fr.afpa.Factorielle",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "FindMinMax",
+            "request": "launch",
+            "mainClass": "fr.afpa.FindMinMax",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "fr.afpa.FizzBuzz",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "IndiceMinMaxTab",
+            "request": "launch",
+            "mainClass": "fr.afpa.IndiceMinMaxTab",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "InversionTableau",
+            "request": "launch",
+            "mainClass": "fr.afpa.InversionTableau",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "IterationTableau",
+            "request": "launch",
+            "mainClass": "fr.afpa.IterationTableau",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "JeuPlusMoins",
+            "request": "launch",
+            "mainClass": "fr.afpa.JeuPlusMoins",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "ManipulationEntiers",
+            "request": "launch",
+            "mainClass": "fr.afpa.ManipulationEntiers",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "ParticipationEmployeur",
+            "request": "launch",
+            "mainClass": "fr.afpa.ParticipationEmployeur",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "RechercheSequentielle",
+            "request": "launch",
+            "mainClass": "fr.afpa.RechercheSequentielle",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "SoldeCompte",
+            "request": "launch",
+            "mainClass": "fr.afpa.SoldeCompte",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "SommeEntier",
+            "request": "launch",
+            "mainClass": "fr.afpa.SommeEntier",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "SommeEntreDeuxIndex",
+            "request": "launch",
+            "mainClass": "fr.afpa.SommeEntreDeuxIndex",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "SommeTableau2D",
+            "request": "launch",
+            "mainClass": "fr.afpa.SommeTableau2D",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "VowelOrConsonant",
+            "request": "launch",
+            "mainClass": "fr.afpa.VowelOrConsonant",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Voyelleoyelle",
+            "request": "launch",
+            "mainClass": "fr.afpa.Voyelleoyelle",
+            "projectName": "algo"
+        }
+    ]
+}

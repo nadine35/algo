@@ -1,6 +1,6 @@
 package fr.afpa;
 
-public class abonneYoutube {
+public class AbonneYoutube {
     public static void main(String[] args) {
         abonneYtb();
     }
@@ -10,14 +10,13 @@ public class abonneYoutube {
         int abonne = 2500;
         // int i = 0;
         int mois = 24;
-        
 
         for (int i = 0; i < mois; i++) {
-            
-            abonne += abonne * 0.05; 
+
+            abonne += abonne * 0.05;
 
         }
-        System.out.println("Coucou "+abonne);
+        System.out.println("Coucou " + abonne);
     }
 
 }

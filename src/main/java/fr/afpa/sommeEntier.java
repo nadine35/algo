@@ -2,7 +2,7 @@ package fr.afpa;
 
 import java.util.Scanner;
 
-public class sommeEntier {
+public class SommeEntier {
     public static void main(String[] args) {
         sommeE();
 
