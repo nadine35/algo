@@ -7,13 +7,13 @@ public class FindMinMax {
     public static void main(String[] args) {
         System.out.println("Hello toi!");
 
-        
         System.out.println("----------------");
 
         // appel de "findMinMax2"
         findMinMax2();
     }
 
+    // La proposition 2 est plus efficace que la proposition 1
     /**
      * Proposition 1 d'algorithme pour trouver le minimum et le maximum de trois
      * entiers

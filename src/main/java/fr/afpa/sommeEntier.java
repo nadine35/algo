@@ -8,6 +8,8 @@ public class SommeEntier {
 
     }
 
+    // TODO JavaDoc
+    // ✅ Nickel
     public static void sommeE() {
         System.out.println("Ecris ton entier");
         Scanner sc = new Scanner(System.in);

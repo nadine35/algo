@@ -6,6 +6,9 @@ public class FizzBuzz {
 
     }
 
+    // JavaDoc
+    // C'est mieux de respeceter le cahier des charges mais le modulo est compris
+    // ✅ Checked
     public static void fizzBuzz() {
         // je déclare mes variables
         int n = 100;

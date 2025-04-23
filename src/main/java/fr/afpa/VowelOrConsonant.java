@@ -10,11 +10,13 @@ public class VowelOrConsonant {
 
     }
 
+    // TODO ajouter le javadoc
+    // y est une voyelle
     public static char vowelOrConsonant(char charToCheck) {
         // ==
         // opérateur logiques : ET && OU ||
         // déclaration "en dur" d'un caractère
-        
+
         charToCheck = 'z';
         // Je vérifie par cette fonction si le paramètre est une voyelle
         if (charToCheck == 'a' || charToCheck == 'e' || charToCheck == 'i' || charToCheck == 'o'

@@ -5,6 +5,8 @@ public class AbonneYoutube {
         abonneYtb();
     }
 
+    // TODO Ajouter le JavaDoc
+    // ✅ Okay
     public static void abonneYtb() {
 
         int abonne = 2500;
