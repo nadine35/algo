@@ -7,6 +7,7 @@ public class IterationTableau {
 
     // JavaDoc
     // ✅ Nickel
+    /** */
     public static void iterationTableau() {
 
         // déclaration d'un tableau de réèl

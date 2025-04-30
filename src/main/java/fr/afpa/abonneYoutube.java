@@ -7,6 +7,19 @@ public class AbonneYoutube {
 
     // TODO Ajouter le JavaDoc
     // ✅ Okay
+    /**
+     * Calcule l'évolution du nombre d'abonnés sur une chaîne YouTube après un
+     * nombre donné de mois.
+     * Cette méthode simule l'augmentation du nombre d'abonnés d'une chaîne YouTube
+     * en appliquant
+     * un taux de croissance de 5% chaque mois pendant une période de 24 mois (2
+     * ans). Le résultat
+     * final est affiché à l'écran.
+     * 
+     * 
+     * 
+     */
+
     public static void abonneYtb() {
 
         int abonne = 2500;

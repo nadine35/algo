@@ -9,9 +9,11 @@ public class VowelOrConsonant {
         vowelOrConsonant(charToCheck);
 
     }
-
-    // TODO ajouter le javadoc
-    // y est une voyelle
+ /**
+  * Trouver consonnes ou voyelles
+  * @param charToCheck
+  * @return c si consonne et v si voyelle
+  */
     public static char vowelOrConsonant(char charToCheck) {
         // ==
         // opérateur logiques : ET && OU ||
@@ -20,7 +22,7 @@ public class VowelOrConsonant {
         charToCheck = 'z';
         // Je vérifie par cette fonction si le paramètre est une voyelle
         if (charToCheck == 'a' || charToCheck == 'e' || charToCheck == 'i' || charToCheck == 'o'
-                || charToCheck == 'u') {
+                || charToCheck == 'u'|| charToCheck=='y') {
             // si le paramètre est une voyelle alors la réponse est V, sinon c'est C
             System.out.println("Bonjour voyelle !Je t'attribue la réponse" + "V");
             return 'V';

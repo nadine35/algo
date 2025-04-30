@@ -7,7 +7,11 @@ public class CamelCase {
 
         System.out.println(camelCase);// Affiche "wayToLearn"
     }
-
+/**
+ * 
+ * @param phrase
+ * @return
+ */
     public static String camelCase(String phrase) {
         String[] words = phrase.split(" ");
 

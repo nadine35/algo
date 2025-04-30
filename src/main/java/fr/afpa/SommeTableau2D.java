@@ -16,7 +16,11 @@ public class SommeTableau2D {
 
         calculerSomme(tableau2D);
     }
-
+/**
+ * calculer la somme d'un tableau
+ * @param tableau2D
+ * @return somme
+ */
     public static int calculerSomme(int[][] tableau2D) {
         int somme = 0;
         for (int i = 0; i < tableau2D.length; i++) {

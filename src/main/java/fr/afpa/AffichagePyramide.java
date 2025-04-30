@@ -6,7 +6,7 @@ public class AffichagePyramide {
     public static void main(String[] args) {
         affichagePyramide();
     }
-
+/** */
     public static void affichagePyramide() {
         // System.out.println("Combien de niveau ?");
         Scanner scanner = new Scanner(System.in);

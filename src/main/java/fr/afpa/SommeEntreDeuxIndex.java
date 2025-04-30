@@ -1,7 +1,10 @@
 package fr.afpa;
 
 public class SommeEntreDeuxIndex {
-
+/**
+ * somme entre deux indices ou index
+ * @param args
+ */
     public static void main(String[] args) {
         int[] array = { 4, 6, 2, 2 };
         int res = sumEntreDeuxIndex(array, 1, 3);
@@ -17,6 +20,7 @@ public class SommeEntreDeuxIndex {
         for (i = 1; i < j; i++) {
             res += i;
         }
+        System.out.println(res);
         return res;
 
     }

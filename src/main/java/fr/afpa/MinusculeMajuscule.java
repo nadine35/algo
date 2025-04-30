@@ -6,19 +6,19 @@ public class MinusculeMajuscule {
         String lowerCaseString = "allez-vous faire du roller cet après-midi ?";
         String upperCaseString = minusculeMajuscule(lowerCaseString);
         System.out.println("Chaîne en majuscule : " + upperCaseString);
-        
 
     }
-
+/**
+ * 
+ * @param input
+ * @return résultat en majuscule
+ */
     public static String minusculeMajuscule(String input) {
 
-        if (input == null) {
+        if (input == null) {//si l'entrée est nulle
             return null;
         }
-        return input.toUpperCase();
-    }
-       
-        
-        
+        return input.toUpperCase();// sinon retourne en majuscule
     }
 
+}

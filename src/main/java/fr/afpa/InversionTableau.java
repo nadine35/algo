@@ -1,7 +1,10 @@
 package fr.afpa;
 
 import java.util.Arrays;
-
+/**
+ * Inverser les valeurs d'un tableau
+ * return le nouveau tableau
+ */
 public class InversionTableau {
     public static void main(String[] args) {
         int[] firstArray = { 4, 6, 2, 155 }; // tableau déclaré en "dur" pour l'exemple

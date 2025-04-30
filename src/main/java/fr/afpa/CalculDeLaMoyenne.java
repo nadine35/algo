@@ -9,7 +9,11 @@ public class CalculDeLaMoyenne {
         System.out.println("La moyenne est : " + moyenne);
         System.out.println(Arrays.toString(array));
     }
-
+/**
+ * 
+ * @param array
+ * @return
+ */
     public static int calculDeLaMoyenne(int[] array) {
 
         if (array == null || array.length == 0) {

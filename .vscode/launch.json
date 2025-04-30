@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MethodeRecursive",
+            "request": "launch",
+            "mainClass": "fr.afpa.MethodeRecursive",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "GloutonEssai",
+            "request": "launch",
+            "mainClass": "fr.afpa.GloutonEssai",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveFonction",
+            "request": "launch",
+            "mainClass": "fr.afpa.RecursiveFonction",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Glouton",
+            "request": "launch",
+            "mainClass": "fr.afpa.Glouton",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "LuhnAutre",
+            "request": "launch",
+            "mainClass": "fr.afpa.LuhnAutre",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Luhn",
+            "request": "launch",
+            "mainClass": "fr.afpa.Luhn",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "fr.afpa.Palindrome",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "FusionTabloTries",
+            "request": "launch",
+            "mainClass": "fr.afpa.FusionTabloTries",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Base10Binaire",
+            "request": "launch",
+            "mainClass": "fr.afpa.Base10Binaire",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
             "name": "BinaireBase10",
             "request": "launch",
             "mainClass": "fr.afpa.BinaireBase10",

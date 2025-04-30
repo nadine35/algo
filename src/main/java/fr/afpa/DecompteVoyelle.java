@@ -7,7 +7,11 @@ public class DecompteVoyelle {
         System.out.println("le nombre de voyelles dans la chaine \" " + str + "\":" + nombreDeVoyelles);
 
     }
-
+/**
+ * 
+ * @param str
+ * @return
+ */
     public static int decompteVoyelle(String str) {
         int compteur = 0;
         String voyelles = "aeiouAEIOU";

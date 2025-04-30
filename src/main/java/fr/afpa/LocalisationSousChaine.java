@@ -4,7 +4,7 @@ public class LocalisationSousChaine {
     public static void main(String[] args) {
         localisationSousChaine();
     }
-
+/** */
     public static void localisationSousChaine() {
         String str = "Welcome to WayToLearnX";
 

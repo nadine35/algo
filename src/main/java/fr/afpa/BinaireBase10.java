@@ -10,7 +10,11 @@ public class BinaireBase10 {
 
 
     }
-
+/**
+ * 
+ * @param binary
+ * @return
+ */
     public static String binaireBase10(String binary) {
         int decimal = Integer.parseInt(binary, 2);
         return Integer.toHexString(decimal);

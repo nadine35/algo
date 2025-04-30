@@ -8,7 +8,7 @@ public class JeuPlusMoins {
     public static void main(String[] args) {
         jeuPlusMoins();
     }
-
+/** */
     public static void jeuPlusMoins() {
         // instanciation d'un objet de la classe Random
         // Random r = new Random();

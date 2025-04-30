@@ -7,7 +7,10 @@ public class CheckLegalAge {
 
         checkLegalAge();
     }
-
+/**
+ * 
+ * @return
+ */
     // Ajouter la JavaDoc
     // Récupérer l'année en cours du système
     public static boolean checkLegalAge() {

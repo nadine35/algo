@@ -34,6 +34,7 @@ public class RechercheSequentielle {
     // sinon tu ne sors jamais de ta boucle
     // TODO Respecter le cahier des charges au niveau des valeurs d'entrées et de
     // sortie
+    
     public static void sequentielWhile() {
         // déclaration d'un tableau
         int[] array = { 5, 10, 15, 20, 30, 40, 50 };
