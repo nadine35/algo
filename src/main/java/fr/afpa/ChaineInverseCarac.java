@@ -8,11 +8,13 @@ public class ChaineInverseCarac {
         System.out.println(chaineInversee);
 
     }
-/**
- * 
- * @param chaine
- * @return
- */
+
+    // L'idée était de ne pas utiliser les fonctions prédéfinies java
+    /**
+     * 
+     * @param chaine
+     * @return
+     */
     public static String chaineInverseCarac(String chaine) {
 
         StringBuilder sb = new StringBuilder(chaine);// la méthode StringBuilder respecte la casse

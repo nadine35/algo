@@ -4,9 +4,10 @@ public class Base10Binaire {
 
     public static void main(String[] args) {
 
-        base10Binaire(12);
+        base10Binaire(247);
     }
 
+    // ✅ Nickel
     /**
      * Entier que l'on veut convertir en une chaine de caractère binaire
      * 

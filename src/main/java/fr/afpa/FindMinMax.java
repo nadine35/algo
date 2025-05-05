@@ -13,6 +13,7 @@ public class FindMinMax {
         findMinMax2();
     }
 
+    // ✅ checked
     // La proposition 2 est plus efficace que la proposition 1
     /**
      * Proposition 1 d'algorithme pour trouver le minimum et le maximum de trois

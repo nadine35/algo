@@ -1,6 +1,8 @@
 package fr.afpa;
 
 import java.util.Arrays;
+
+// ✅ Good job
 /**
  * Fusion de 2 tableaux triés en un seul trié
  */

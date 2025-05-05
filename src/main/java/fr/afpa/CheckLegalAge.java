@@ -7,12 +7,14 @@ public class CheckLegalAge {
 
         checkLegalAge();
     }
-/**
- * 
- * @return
- */
+
     // Ajouter la JavaDoc
-    // Récupérer l'année en cours du système
+    // TODO Récupérer l'année en cours du système
+    /**
+     * 
+     * @return
+     */
+
     public static boolean checkLegalAge() {
         System.out.println("Ecris ta date de naissance");
         Scanner sc = new Scanner(System.in);
